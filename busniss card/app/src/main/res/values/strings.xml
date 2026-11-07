@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ibrahim Profile</string>
+    <string name="profile_name">Ibrahim O. Kaware</string>
+    <string name="profile_title">Expert Android Developer</string>
+    <string name="phone_number">+970 599 195 534</string>
+    <string name="social_handle">\@AndroidDev</string>
+    <string name="email_address">io.kaware@android.com</string>
+</resources>
